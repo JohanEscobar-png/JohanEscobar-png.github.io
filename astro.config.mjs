@@ -11,4 +11,5 @@ export default defineConfig({
   },
 
   integrations: [react()],
+  site: 'https://JohanEscobar-png.github.io'
 });
